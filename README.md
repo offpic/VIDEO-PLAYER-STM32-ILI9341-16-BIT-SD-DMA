@@ -1,3 +1,4 @@
+VIDEO PLAYER STM32 ILI9341 16 BIT SD DMA
 
 ffmpeg -i SpongeBob.mp4 -c:v mjpeg -s 320x240 -r 25 -q 15 noaudio.avi
 
