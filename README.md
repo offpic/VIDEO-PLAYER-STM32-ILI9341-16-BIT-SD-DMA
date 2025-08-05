@@ -18,3 +18,5 @@ to do it:
 Code 60% from VADROV https://github.com/vadrov/stm32f4_fast_optimized_avi_player_osd 
 
 40% from me
+
+************************************************************
